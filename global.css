@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-jejumyeongjo: JejuMyeongjo;
+  --font-inter: Inter;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gainsboro: #d9d9d9;
+  --color-black: #000;
+  --color-mediumpurple: rgba(147, 112, 219, 0.39);
+  --color-gray: #fbfbfb;
+
+  /* border radiuses */
+  --br-9xl: 28px;
+}

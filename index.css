@@ -1,0 +1,157 @@
+.slide-169-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.slide-169-1-item {
+  position: absolute;
+  top: 531px;
+  left: 365px;
+  border: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 490px;
+  height: 109px;
+}
+.div {
+  top: 562px;
+  left: 380px;
+  font-size: 40px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+}
+.div1 {
+  top: 361px;
+  left: 361px;
+  font-size: 96px;
+}
+.div2 {
+  top: 75px;
+  left: 776px;
+  text-align: center;
+}
+.div3 {
+  left: 575px;
+}
+.div3,
+.div4,
+.div5,
+.div6 {
+  position: absolute;
+  top: 75px;
+  text-align: center;
+}
+.div4 {
+  left: 1329px;
+  display: inline-block;
+  width: 220px;
+  opacity: 0.7;
+}
+.div5,
+.div6 {
+  left: 475px;
+}
+.div6 {
+  left: 914px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 47px;
+  left: 333px;
+  width: 85px;
+  height: 85px;
+  object-fit: cover;
+}
+.div7 {
+  position: absolute;
+  top: 1236px;
+  left: 685px;
+  font-size: 48px;
+  font-family: var(--font-jejumyeongjo);
+  color: var(--color-black);
+  -webkit-text-stroke: 1px #000;
+}
+.image-1-icon {
+  position: absolute;
+  top: 1115px;
+  left: 928px;
+  width: 85px;
+  height: 85px;
+  object-fit: cover;
+}
+.div8,
+.div9 {
+  position: absolute;
+  top: 1366px;
+  left: 375px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-jejumyeongjo);
+  color: var(--color-black);
+  -webkit-text-stroke: 1px #000;
+}
+.div9 {
+  left: 1234px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 1948px;
+  left: 1092px;
+  width: 518px;
+  height: 630px;
+  object-fit: cover;
+}
+.div10,
+.div11,
+.slide-169-1-inner {
+  position: absolute;
+  left: 375px;
+  width: 570px;
+}
+.slide-169-1-inner {
+  top: 1948px;
+  height: 693px;
+  object-fit: cover;
+}
+.div10,
+.div11 {
+  top: 1429px;
+  font-size: var(--font-size-13xl);
+  line-height: 35px;
+  font-family: var(--font-jejumyeongjo);
+  color: var(--color-black);
+  display: inline-block;
+  height: 205px;
+}
+.div11 {
+  left: 975px;
+  text-align: right;
+  height: 457px;
+}
+.rectangle-div,
+.slide-169-1-child1 {
+  position: absolute;
+  top: 1080px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 310px;
+  height: 1892px;
+}
+.slide-169-1-child1 {
+  left: 1610px;
+}
+.slide-169-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2735px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
